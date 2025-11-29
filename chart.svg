@@ -11,7 +11,7 @@
   <rect x="10" y="130" width="80" height="20" fill="#777777"/>
 
   <!-- Labels -->
-  <text x="320" y="65">Python (60%)</text>
-  <text x="220" y="105">R (40%)</text>
-  <text x="100" y="145">Other (10%)</text>
+  <text x="320" y="65" fill="#ffffff" >Python (60%)</text>
+  <text x="220" y="105" fill="#ffffff" >R (40%)</text>
+  <text x="100" y="145" fill="#ffffff" >Other (10%)</text>
 </svg>
