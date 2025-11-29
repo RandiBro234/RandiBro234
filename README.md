@@ -9,8 +9,8 @@
 - **Customer Segmentation (Python)**  
   Clustering & behavioral insights using Pandas, scikit-learn, and Matplotlib.  
 
-- **Forecasting Dashboard (R Shiny)**  
-  Time-series forecasting with interactive visualizations in Shiny.  
+- **Forecasting Dashboard (Python/Tableau/Power BI)**  
+  Time-series forecasting with interactive visualizations.  
 
 ---
 
