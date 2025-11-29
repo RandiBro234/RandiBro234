@@ -33,7 +33,7 @@ Welcome to my GitHub portfolio — a clean, minimalistic space where I build too
 ---
 
 ## 📈 GitHub Overview  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RandiBro234&show_icons=true&theme=graywhite&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RandiBro234&show_icons=true&theme=tokyonight)
 
 ---
 
