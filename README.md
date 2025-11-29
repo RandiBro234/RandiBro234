@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Randi
 
-<!--
-**RandiBro234/RandiBro234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio — a clean, minimalistic space where I build tools, analyze data, and explore ideas using **Python** & **R**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+
+### 🔍 Data Analytics & Visualization
+- **Customer Segmentation (Python)**  
+  Clustering & behavioral insights using scikit-learn and Pandas.  
+  👉 `link-project-1`
+
+- **Forecasting Dashboard (R Shiny)**  
+  Time-series prediction visualized in a clean, interactive dashboard.  
+  👉 `link-project-2`
+
+---
+
+## 🧠 What I Do
+- Data Wrangling & Cleaning  
+- Statistical Modeling  
+- Dashboarding (Python / Shiny)  
+- Automation & Scripting  
+- Data Visualization
+
+---
+
+## 🧰 Tech Stack
+**Python:** Pandas, NumPy, Matplotlib, Seaborn, FastAPI  
+**R:** Tidyverse, ggplot2, Shiny  
+
+---
+
+## 📈 GitHub Overview  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RandiBro234&show_icons=true&theme=graywhite&hide_title=true)
+
+---
+
+## 📨 Contact  
+Email → *randizelda30@gmail.com*  
