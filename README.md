@@ -1,28 +1,41 @@
-# 🧪 Randi — Data Scientist & Analyst
+# 👋 Hi, I'm Randi
 
-I use **Python** and **R** to turn raw data into meaningful insights.  
-My work focuses on analytics, visualization, and clean code.
-
----
-
-## 📊 Tech Usage (SVG Chart)
-
-<!-- Programming Language Usage Chart -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USER/REPO/main/chart.svg" width="60%">
-</p>
+Welcome to my GitHub portfolio — a clean, minimalistic space where I build tools, analyze data, and explore ideas using **Python** & **R**.
 
 ---
 
-## 🔧 Workflow
+## 📌 Featured Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USER/REPO/main/workflow.svg" width="70%">
-</p>
+### 🔍 Data Analytics & Visualization
+- **Customer Segmentation (Python)**  
+  Clustering & behavioral insights using scikit-learn and Pandas.  
+  👉 `link-project-1`
+
+- **Forecasting Dashboard (R Shiny)**  
+  Time-series prediction visualized in a clean, interactive dashboard.  
+  👉 `link-project-2`
 
 ---
 
-## 📈 GitHub Activity  
+## 🧠 What I Do
+- Data Wrangling & Cleaning  
+- Statistical Modeling  
+- Dashboarding (Python / Shiny)  
+- Automation & Scripting  
+- Data Visualization
+
+---
+
+## 🧰 Tech Stack
+**Python:** Pandas, NumPy, Matplotlib, Seaborn, FastAPI  
+**R:** Tidyverse, ggplot2, Shiny  
+
+---
+
+## 📈 GitHub Overview  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RandiBro234&show_icons=true&theme=graywhite&hide_title=true)
 
 ---
+
+## 📨 Contact  
+Email → *randizelda30@gmail.com*  
