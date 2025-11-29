@@ -1,22 +1,20 @@
-<h1 align="center">Hi, I'm Randi 👋</h1>
+<h1 align="center">Hi, I'm Randi </h1>
 <p align="center">Minimalist data enthusiast working with <b>Python</b> and <b>R</b> for analytics, visualization, and automation.</p>
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🔍 Data Analytics & Visualization
+### Data Analytics & Visualization
 - **Customer Segmentation (Python)**  
   Clustering & behavioral insights using Pandas, scikit-learn, and Matplotlib.  
-  👉 `link-project-1`
 
 - **Forecasting Dashboard (R Shiny)**  
   Time-series forecasting with interactive visualizations in Shiny.  
-  👉 `link-project-2`
 
 ---
 
-## 🧠 What I Do
+## What I Do
 - Data cleaning & wrangling  
 - Exploratory Data Analysis (EDA)  
 - Statistical modeling & forecasting  
@@ -25,7 +23,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**
 - Python  
@@ -43,22 +41,7 @@
 
 ---
 
-## 📊 GitHub Overview
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=RandiBro234&show_icons=true&theme=graywhite&hide_title=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandiBro234&layout=compact&theme=graywhite&hide_title=true" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🧪 Data Scientist Visuals
+## Data Scientist Visuals
 
 <!-- Programming Language Usage Chart -->
 <p align="center">
@@ -72,7 +55,7 @@
 
 ---
 
-## 🌱 Current Focus
+## Current Focus
 - Improving my skills in statistical modeling & forecasting  
 - Building clean, minimal dashboards for real-world data  
 - Writing reproducible, well-documented code  
@@ -81,5 +64,6 @@
 
 ## 📨 Contact
 
-- Email: *your-email@example.com*  
+- Email: *randizelda30@gmail.com*
+- Instagram: *@randika234_*  
 - Open to collaboration on data projects, dashboards, and experiments.
