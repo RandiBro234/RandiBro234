@@ -85,15 +85,6 @@ randi = {
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
 </p>
 
-### 🎨 Design & Creative Tools
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white"/>
-</p>
 
 ---
 
