@@ -33,8 +33,8 @@ randi = {
     "study"     : "Applied Data Science — EEPIS, Surabaya (Semester 4)",
     "focus"     : ["Machine Learning", "Data Analysis", "Data Visualization"],
     "building"  : ["Interactive Dashboards", "ML Models for Web & Android"],
-    "exploring" : ["Deep Learning", "Computer Vision"],
-    "fun_fact"  : "Debugging ML models is more fun than sleeping 😅"
+    "exploring" : ["Deep Learning"],
+    "fun_fact"  : "Manchester United"
 }
 ```
 
