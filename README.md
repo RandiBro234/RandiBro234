@@ -1,25 +1,25 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Randi%20Nandika%20Danendra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20Data%20Science%20%7C%20EEPIS%20Surabaya&descAlignY=58&descSize=16&descColor=a0b4f4"/>
+<!-- Cyberpunk Glitch Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,40:0d1b2a,100:0a0a1a&height=180&text=RANDI%20NANDIKA%20DANENDRA&fontSize=38&fontColor=00ffe0&animation=blinking&fontAlignY=45&desc=%3E%20Applied%20Data%20Science%20%7C%20EEPIS%20Surabaya%20%3C&descAlignY=68&descSize=14&descColor=ff2d55&stroke=00ffe0&strokeWidth=1"/>
 
-<!-- Typing Animation -->
+<!-- Glitch Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Data+Enthusiast+%F0%9F%93%8A;Machine+Learning+Explorer+%F0%9F%A4%96;Building+Dashboards+%26+ML+Models+%F0%9F%9A%80;Turning+Data+into+Insights+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=1000&color=00FFE0&background=0A0A0F&center=true&vCenter=true&width=650&height=45&lines=%3E+Data+Enthusiast+%26+ML+Explorer_;%3E+Building+Dashboards+%26+Deploying+Models_;%3E+Deep+Learning+%7C+Computer+Vision_%3B%3E+Turning+Raw+Data+into+Insights_" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social Badges -->
+<!-- Social Badges Cyberpunk Style -->
 <a href="https://www.instagram.com/randika234_">
-  <img src="https://img.shields.io/badge/Instagram-randika234__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/_%40randika234__-ff2d55?style=flat-square&logo=instagram&logoColor=white&labelColor=0a0a0f&label=IG"/>
 </a>
 &nbsp;
 <a href="mailto:randizelda30@gmail.com">
-  <img src="https://img.shields.io/badge/Email-randizelda30@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/_randizelda30%40gmail.com-00ffe0?style=flat-square&logo=gmail&logoColor=0a0a0f&labelColor=0a0a0f&label=MAIL"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=RandiBro234&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=RandiBro234&style=flat-square&color=00ffe0&label=PROFILE+VIEWS&abbreviated=true"/>
 
 </div>
 
@@ -33,8 +33,8 @@ randi = {
     "study"     : "Applied Data Science — EEPIS, Surabaya (Semester 4)",
     "focus"     : ["Machine Learning", "Data Analysis", "Data Visualization"],
     "building"  : ["Interactive Dashboards", "ML Models for Web & Android"],
-    "exploring" : ["Deep Learning"],
-    "fun_fact"  : "Manchester United"
+    "exploring" : ["Deep Learning", "Computer Vision"],
+    "fun_fact"  : "Debugging ML models is more fun than sleeping 😅"
 }
 ```
 
@@ -85,6 +85,15 @@ randi = {
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
 </p>
 
+### 🎨 Design & Creative Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white"/>
+</p>
 
 ---
 
