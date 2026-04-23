@@ -9,7 +9,12 @@
 </a>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=RandiBro234&style=flat-square&color=00ffe0&label=PROFILE+VIEWS"/>
+
+[![Instagram](https://img.shields.io/badge/IG-%40randika234__-ff2d55?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/randika234_)
+&nbsp;
+[![Email](https://img.shields.io/badge/MAIL-randizelda30%40gmail.com-00ffe0?style=flat-square&logo=gmail&logoColor=black)](mailto:randizelda30@gmail.com)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=RandiBro234&style=flat-square&color=00ffe0&label=PROFILE+VIEWS)
 
 </div>
 
