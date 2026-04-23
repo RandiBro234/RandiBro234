@@ -1,25 +1,15 @@
 <div align="center">
 
-<!-- Cyberpunk Glitch Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,40:0d1b2a,100:0a0a1a&height=180&text=RANDI%20NANDIKA%20DANENDRA&fontSize=38&fontColor=00ffe0&animation=blinking&fontAlignY=45&desc=%3E%20Applied%20Data%20Science%20%7C%20EEPIS%20Surabaya%20%3C&descAlignY=68&descSize=14&descColor=ff2d55&stroke=00ffe0&strokeWidth=1"/>
+<!-- Cyberpunk Glitch Header SVG -->
+<img width="100%" src="header.svg"/>
 
-<!-- Glitch Typing Animation -->
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=1000&color=00FFE0&background=0A0A0F&center=true&vCenter=true&width=650&height=45&lines=%3E+Data+Enthusiast+%26+ML+Explorer_;%3E+Building+Dashboards+%26+Deploying+Models_;%3E+Deep+Learning+%7C+Computer+Vision_%3B%3E+Turning+Raw+Data+into+Insights_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&pause=1000&color=00FFE0&background=07080F&center=true&vCenter=true&width=700&height=40&lines=%3E+Data+Enthusiast+%26+ML+Explorer_;%3E+Building+Dashboards+%26+Deploying+Models_;%3E+Deep+Learning+%7C+Computer+Vision_;%3E+Turning+Raw+Data+into+Insights_" alt="Typing SVG" />
 </a>
 
 <br/>
-
-<!-- Social Badges Cyberpunk Style -->
-<a href="https://www.instagram.com/randika234_">
-  <img src="https://img.shields.io/badge/_%40randika234__-ff2d55?style=flat-square&logo=instagram&logoColor=white&labelColor=0a0a0f&label=IG"/>
-</a>
-&nbsp;
-<a href="mailto:randizelda30@gmail.com">
-  <img src="https://img.shields.io/badge/_randizelda30%40gmail.com-00ffe0?style=flat-square&logo=gmail&logoColor=0a0a0f&labelColor=0a0a0f&label=MAIL"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=RandiBro234&style=flat-square&color=00ffe0&label=PROFILE+VIEWS&abbreviated=true"/>
+<img src="https://komarev.com/ghpvc/?username=RandiBro234&style=flat-square&color=00ffe0&label=PROFILE+VIEWS"/>
 
 </div>
 
