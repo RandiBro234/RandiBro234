@@ -1,137 +1,115 @@
 <div align="center">
 
-##  ◈  RANDI NANDIKA DANENDRA  ◈
+<!-- Cyberpunk Glitch Header SVG -->
+<img width="100%" src="header.svg"/>
 
-**`Applied Data Science · EEPIS Surabaya · Semester 4`**
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&pause=1000&color=00FFE0&background=07080F&center=true&vCenter=true&width=700&height=40&lines=%3E+Data+Enthusiast+%26+ML+Explorer_;%3E+Building+Dashboards+%26+Deploying+Models_;%3E+Deep+Learning+%7C+Computer+Vision_;%3E+Turning+Raw+Data+into+Insights_" alt="Typing SVG" />
+</a>
 
-―――――――――――――――――――――――――――――――――――――――――――――
-
-[![Instagram](https://img.shields.io/badge/Instagram-%40randika234__-1e6fff?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/randika234_)
-[![Email](https://img.shields.io/badge/Email-randizelda30%40gmail.com-1e6fff?style=flat-square&logo=gmail&logoColor=white)](mailto:randizelda30@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-RandiBro234-1e6fff?style=flat-square&logo=github&logoColor=white)](https://github.com/RandiBro234)
-![Views](https://komarev.com/ghpvc/?username=RandiBro234&style=flat-square&color=1e6fff&label=profile+views)
+<br/>
+<img src="https://komarev.com/ghpvc/?username=RandiBro234&style=flat-square&color=00ffe0&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br/>
+---
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  ▸  DATA ENTHUSIAST  //  ML EXPLORER  //  DASHBOARD BUILDER     ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+## 🧑‍💻 About Me
 
-> Mahasiswa **Applied Data Science** di EEPIS Surabaya.
-> Fokus membangun model ML lalu men-deploy ke web & Android.
-> Sedang eksplorasi **Deep Learning** dan **Computer Vision**.
-
-<br/>
-
-```
-┌─────────────────────────────────────┐
-│  ⬡  MACHINE LEARNING & DATA SCIENCE │
-└─────────────────────────────────────┘
+```python
+randi = {
+    "name"      : "Randi Nandika Danendra",
+    "study"     : "Applied Data Science — EEPIS, Surabaya (Semester 4)",
+    "focus"     : ["Machine Learning", "Data Analysis", "Data Visualization"],
+    "building"  : ["Interactive Dashboards", "ML Models for Web & Android"],
+    "exploring" : ["Deep Learning", "Computer Vision"],
+    "fun_fact"  : "Debugging ML models is more fun than sleeping 😅"
+}
 ```
 
-[![Python](https://img.shields.io/badge/Python-1e6fff?style=flat-square&logoColor=white)](https://python.org)
-[![R](https://img.shields.io/badge/R-1e6fff?style=flat-square&logoColor=white)](https://r-project.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-1e6fff?style=flat-square&logoColor=white)](https://tensorflow.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1e6fff?style=flat-square&logoColor=white)](https://pytorch.org)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1e6fff?style=flat-square&logoColor=white)](https://scikit-learn.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-1e6fff?style=flat-square&logoColor=white)](https://opencv.org)
-[![Pandas](https://img.shields.io/badge/Pandas-1e6fff?style=flat-square&logoColor=white)](https://pandas.pydata.org)
-[![NumPy](https://img.shields.io/badge/NumPy-1e6fff?style=flat-square&logoColor=white)](https://numpy.org)
-[![SciPy](https://img.shields.io/badge/SciPy-1e6fff?style=flat-square&logoColor=white)](https://scipy.org)
-[![MLflow](https://img.shields.io/badge/MLflow-1e6fff?style=flat-square&logoColor=white)](https://mlflow.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-1e6fff?style=flat-square&logoColor=white)](https://matplotlib.org)
-[![Plotly](https://img.shields.io/badge/Plotly-1e6fff?style=flat-square&logoColor=white)](https://plotly.com)
+---
 
-```
-┌─────────────────────────────────────┐
-│  ⬡  DASHBOARD & VISUALIZATION       │
-└─────────────────────────────────────┘
-```
+## 🛠️ Tech Stack
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-1e6fff?style=flat-square&logoColor=white)](https://streamlit.io)
-[![Flask](https://img.shields.io/badge/Flask-1e6fff?style=flat-square&logoColor=white)](https://flask.palletsprojects.com)
+### 🤖 Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+</p>
 
-```
-┌─────────────────────────────────────┐
-│  ⬡  WEB & MOBILE DEVELOPMENT        │
-└─────────────────────────────────────┘
-```
+### 📊 Dashboard & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+</p>
 
-[![HTML5](https://img.shields.io/badge/HTML5-1e6fff?style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1e6fff?style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-1e6fff?style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Next.js](https://img.shields.io/badge/Next.js-1e6fff?style=flat-square&logoColor=white)](https://nextjs.org)
-[![Node.js](https://img.shields.io/badge/Node.js-1e6fff?style=flat-square&logoColor=white)](https://nodejs.org)
-[![Laravel](https://img.shields.io/badge/Laravel-1e6fff?style=flat-square&logoColor=white)](https://laravel.com)
-[![Flutter](https://img.shields.io/badge/Flutter-1e6fff?style=flat-square&logoColor=white)](https://flutter.dev)
-[![Vite](https://img.shields.io/badge/Vite-1e6fff?style=flat-square&logoColor=white)](https://vitejs.dev)
+### 🌐 Web & Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+</p>
 
-```
-┌─────────────────────────────────────┐
-│  ⬡  DATABASE & CLOUD                │
-└─────────────────────────────────────┘
-```
+### 🗄️ Database & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
+</p>
 
-[![MySQL](https://img.shields.io/badge/MySQL-1e6fff?style=flat-square&logoColor=white)](https://mysql.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-1e6fff?style=flat-square&logoColor=white)](https://mongodb.com)
-[![SQLite](https://img.shields.io/badge/SQLite-1e6fff?style=flat-square&logoColor=white)](https://sqlite.org)
-[![AWS](https://img.shields.io/badge/AWS-1e6fff?style=flat-square&logoColor=white)](https://aws.amazon.com)
-[![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-1e6fff?style=flat-square&logoColor=white)](https://hadoop.apache.org)
+### 🎨 Design & Creative Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white"/>
+</p>
 
-```
-┌─────────────────────────────────────┐
-│  ⬡  DESIGN & CREATIVE               │
-└─────────────────────────────────────┘
-```
+---
 
-[![Figma](https://img.shields.io/badge/Figma-1e6fff?style=flat-square&logoColor=white)](https://figma.com)
-[![Canva](https://img.shields.io/badge/Canva-1e6fff?style=flat-square&logoColor=white)](https://canva.com)
-[![Blender](https://img.shields.io/badge/Blender-1e6fff?style=flat-square&logoColor=white)](https://blender.org)
-[![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-1e6fff?style=flat-square&logoColor=white)](https://adobe.com/products/premiere.html)
-[![After Effects](https://img.shields.io/badge/After%20Effects-1e6fff?style=flat-square&logoColor=white)](https://adobe.com/products/aftereffects.html)
-[![Lightroom](https://img.shields.io/badge/Lightroom-1e6fff?style=flat-square&logoColor=white)](https://adobe.com/products/photoshop-lightroom.html)
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  ▸  GITHUB STATS                                                ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+## 📈 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RandiBro234&show_icons=true&hide_border=true&title_color=1e6fff&icon_color=1e6fff&text_color=58a6ff&bg_color=0d1117&include_all_commits=true&count_private=true)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandiBro234&layout=compact&hide_border=true&title_color=1e6fff&text_color=58a6ff&bg_color=0d1117&langs_count=8)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RandiBro234&hide_border=true&background=0d1117&stroke=1e6fff&ring=1e6fff&fire=1e6fff&currStreakLabel=1e6fff&sideLabels=58a6ff&dates=58a6ff&sideNums=ffffff&currStreakNum=ffffff)
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RandiBro234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandiBro234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=c9d1d9&langs_count=8"/>
 </div>
 
-<br/>
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=RandiBro234&theme=tokyonight&hide_border=true&background=0d1117&stroke=7aa2f7&ring=7aa2f7&fire=ff6b6b&currStreakLabel=7aa2f7"/>
+</div>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  ▸  OPEN TO COLLABORATE                                         ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+---
 
-```
-  ◦  Data Science & Machine Learning projects
-  ◦  Interactive dashboard & visualization tools  
-  ◦  ML deployment (Web / Android)
-  ◦  Research & experiments
-```
+## 🚀 Current Focus
+
+- 🔬 &nbsp; Exploring **Deep Learning** & **Computer Vision**
+- 📦 &nbsp; Deploying ML models to **Web Apps** & **Android**
+- 📊 &nbsp; Building interactive data dashboards with **Streamlit**
+- 🤝 &nbsp; Open to **collaborations** on data science & ML projects
+
+---
 
 <div align="center">
-
-―――――――――――――――――――――――――――――――――――――――――――――
-
-`randizelda30@gmail.com · @randika234_ · EEPIS Surabaya`
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 </div>
