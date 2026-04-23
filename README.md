@@ -1,139 +1,137 @@
-<!--
-  ╔══════════════════════════════════════════════════════╗
-  ║         Randi Nandika Danendra — GitHub Profile      ║
-  ╚══════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│        R A N D I   N A N D I K A   D A N E N D R A         │
-│                                                             │
-│        Applied Data Science  ·  EEPIS Surabaya             │
-│                     Semester 4                              │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+##  ◈  RANDI NANDIKA DANENDRA  ◈
 
-[![Instagram](https://img.shields.io/badge/-@randika234__-1e6fff?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/randika234_)
-[![Email](https://img.shields.io/badge/-randizelda30@gmail.com-1e6fff?style=flat-square&logo=gmail&logoColor=white)](mailto:randizelda30@gmail.com)
-[![GitHub](https://img.shields.io/badge/-RandiBro234-1e6fff?style=flat-square&logo=github&logoColor=white)](https://github.com/RandiBro234)
-![Profile Views](https://komarev.com/ghpvc/?username=RandiBro234&style=flat-square&color=1e6fff&label=views)
+**`Applied Data Science · EEPIS Surabaya · Semester 4`**
+
+―――――――――――――――――――――――――――――――――――――――――――――
+
+[![Instagram](https://img.shields.io/badge/Instagram-%40randika234__-1e6fff?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/randika234_)
+[![Email](https://img.shields.io/badge/Email-randizelda30%40gmail.com-1e6fff?style=flat-square&logo=gmail&logoColor=white)](mailto:randizelda30@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-RandiBro234-1e6fff?style=flat-square&logo=github&logoColor=white)](https://github.com/RandiBro234)
+![Views](https://komarev.com/ghpvc/?username=RandiBro234&style=flat-square&color=1e6fff&label=profile+views)
 
 </div>
 
 <br/>
 
----
-
-### `$ whoami`
-
-```yaml
-name     : Randi Nandika Danendra
-role     : Applied Data Science Student
-campus   : Electronic Engineering Polytechnic Institute of Surabaya (EEPIS)
-semester : 4
-
-focus:
-  - Machine Learning & Data Analysis
-  - Interactive Dashboard Development
-  - ML Model Deployment → Web & Android
-
-currently_exploring:
-  - Deep Learning
-  - Computer Vision
-
-fun_fact : "Debugging ML models is more exciting than sleeping"
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ▸  DATA ENTHUSIAST  //  ML EXPLORER  //  DASHBOARD BUILDER     ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
----
+> Mahasiswa **Applied Data Science** di EEPIS Surabaya.
+> Fokus membangun model ML lalu men-deploy ke web & Android.
+> Sedang eksplorasi **Deep Learning** dan **Computer Vision**.
 
-### `$ cat tech-stack.config`
-
-```toml
-# ── Machine Learning & Data Science ──────────────────────────
-[ml]
-languages   = ["Python", "R"]
-frameworks  = ["TensorFlow", "PyTorch", "Scikit-learn"]
-vision      = ["OpenCV"]
-data        = ["Pandas", "NumPy", "SciPy"]
-viz         = ["Matplotlib", "Plotly", "Seaborn"]
-tracking    = ["MLflow"]
-
-# ── Dashboard & Visualization ─────────────────────────────────
-[dashboard]
-tools       = ["Streamlit", "Flask"]
-
-# ── Web & Mobile ──────────────────────────────────────────────
-[web]
-frontend    = ["HTML5", "CSS3", "JavaScript", "Next.js", "Vite"]
-backend     = ["Node.js", "Laravel"]
-mobile      = ["Flutter"]
-
-# ── Database & Cloud ──────────────────────────────────────────
-[database]
-sql         = ["MySQL", "SQLite"]
-nosql       = ["MongoDB"]
-cloud       = ["AWS", "Apache Hadoop"]
-
-# ── Design & Creative ─────────────────────────────────────────
-[design]
-tools       = ["Figma", "Canva", "Blender"]
-video       = ["Adobe Premiere Pro", "Adobe After Effects"]
-photo       = ["Adobe Lightroom Classic"]
-```
-
----
-
-### `$ git log --oneline --graph`
+<br/>
 
 ```
-● [main] focus: Deep Learning & Computer Vision
-│
-├─● deploy: ML model → Web App & Android
-│
-├─● build: interactive dashboards with Streamlit
-│
-├─● explore: statistical modeling & forecasting
-│
-└─● init: Applied Data Science @ EEPIS Surabaya
+┌─────────────────────────────────────┐
+│  ⬡  MACHINE LEARNING & DATA SCIENCE │
+└─────────────────────────────────────┘
 ```
 
----
+[![Python](https://img.shields.io/badge/Python-1e6fff?style=flat-square&logoColor=white)](https://python.org)
+[![R](https://img.shields.io/badge/R-1e6fff?style=flat-square&logoColor=white)](https://r-project.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-1e6fff?style=flat-square&logoColor=white)](https://tensorflow.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1e6fff?style=flat-square&logoColor=white)](https://pytorch.org)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1e6fff?style=flat-square&logoColor=white)](https://scikit-learn.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-1e6fff?style=flat-square&logoColor=white)](https://opencv.org)
+[![Pandas](https://img.shields.io/badge/Pandas-1e6fff?style=flat-square&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-1e6fff?style=flat-square&logoColor=white)](https://numpy.org)
+[![SciPy](https://img.shields.io/badge/SciPy-1e6fff?style=flat-square&logoColor=white)](https://scipy.org)
+[![MLflow](https://img.shields.io/badge/MLflow-1e6fff?style=flat-square&logoColor=white)](https://mlflow.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-1e6fff?style=flat-square&logoColor=white)](https://matplotlib.org)
+[![Plotly](https://img.shields.io/badge/Plotly-1e6fff?style=flat-square&logoColor=white)](https://plotly.com)
 
-### `$ cat stats.json`
+```
+┌─────────────────────────────────────┐
+│  ⬡  DASHBOARD & VISUALIZATION       │
+└─────────────────────────────────────┘
+```
+
+[![Streamlit](https://img.shields.io/badge/Streamlit-1e6fff?style=flat-square&logoColor=white)](https://streamlit.io)
+[![Flask](https://img.shields.io/badge/Flask-1e6fff?style=flat-square&logoColor=white)](https://flask.palletsprojects.com)
+
+```
+┌─────────────────────────────────────┐
+│  ⬡  WEB & MOBILE DEVELOPMENT        │
+└─────────────────────────────────────┘
+```
+
+[![HTML5](https://img.shields.io/badge/HTML5-1e6fff?style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1e6fff?style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-1e6fff?style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Next.js](https://img.shields.io/badge/Next.js-1e6fff?style=flat-square&logoColor=white)](https://nextjs.org)
+[![Node.js](https://img.shields.io/badge/Node.js-1e6fff?style=flat-square&logoColor=white)](https://nodejs.org)
+[![Laravel](https://img.shields.io/badge/Laravel-1e6fff?style=flat-square&logoColor=white)](https://laravel.com)
+[![Flutter](https://img.shields.io/badge/Flutter-1e6fff?style=flat-square&logoColor=white)](https://flutter.dev)
+[![Vite](https://img.shields.io/badge/Vite-1e6fff?style=flat-square&logoColor=white)](https://vitejs.dev)
+
+```
+┌─────────────────────────────────────┐
+│  ⬡  DATABASE & CLOUD                │
+└─────────────────────────────────────┘
+```
+
+[![MySQL](https://img.shields.io/badge/MySQL-1e6fff?style=flat-square&logoColor=white)](https://mysql.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-1e6fff?style=flat-square&logoColor=white)](https://mongodb.com)
+[![SQLite](https://img.shields.io/badge/SQLite-1e6fff?style=flat-square&logoColor=white)](https://sqlite.org)
+[![AWS](https://img.shields.io/badge/AWS-1e6fff?style=flat-square&logoColor=white)](https://aws.amazon.com)
+[![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-1e6fff?style=flat-square&logoColor=white)](https://hadoop.apache.org)
+
+```
+┌─────────────────────────────────────┐
+│  ⬡  DESIGN & CREATIVE               │
+└─────────────────────────────────────┘
+```
+
+[![Figma](https://img.shields.io/badge/Figma-1e6fff?style=flat-square&logoColor=white)](https://figma.com)
+[![Canva](https://img.shields.io/badge/Canva-1e6fff?style=flat-square&logoColor=white)](https://canva.com)
+[![Blender](https://img.shields.io/badge/Blender-1e6fff?style=flat-square&logoColor=white)](https://blender.org)
+[![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-1e6fff?style=flat-square&logoColor=white)](https://adobe.com/products/premiere.html)
+[![After Effects](https://img.shields.io/badge/After%20Effects-1e6fff?style=flat-square&logoColor=white)](https://adobe.com/products/aftereffects.html)
+[![Lightroom](https://img.shields.io/badge/Lightroom-1e6fff?style=flat-square&logoColor=white)](https://adobe.com/products/photoshop-lightroom.html)
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ▸  GITHUB STATS                                                ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RandiBro234&show_icons=true&theme=default&hide_border=true&title_color=1e6fff&icon_color=1e6fff&text_color=24292f&bg_color=ffffff&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RandiBro234&show_icons=true&hide_border=true&title_color=1e6fff&icon_color=1e6fff&text_color=58a6ff&bg_color=0d1117&include_all_commits=true&count_private=true)
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandiBro234&layout=compact&hide_border=true&title_color=1e6fff&text_color=58a6ff&bg_color=0d1117&langs_count=8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RandiBro234&layout=compact&hide_border=true&title_color=1e6fff&text_color=24292f&bg_color=ffffff&langs_count=8)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RandiBro234&hide_border=true&background=0d1117&stroke=1e6fff&ring=1e6fff&fire=1e6fff&currStreakLabel=1e6fff&sideLabels=58a6ff&dates=58a6ff&sideNums=ffffff&currStreakNum=ffffff)
 
 </div>
 
----
+<br/>
 
-### `$ ./contact.sh`
-
-```sh
-#!/bin/bash
-
-echo "Open to collaborate on:"
-echo "  → Data Science & ML projects"
-echo "  → Dashboard & visualization tools"
-echo "  → Research & experiments"
-echo ""
-echo "Reach me at:"
-echo "  → randizelda30@gmail.com"
-echo "  → instagram.com/randika234_"
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ▸  OPEN TO COLLABORATE                                         ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
----
+```
+  ◦  Data Science & Machine Learning projects
+  ◦  Interactive dashboard & visualization tools  
+  ◦  ML deployment (Web / Android)
+  ◦  Research & experiments
+```
 
 <div align="center">
 
-`Made with curiosity & too much coffee ☕`
+―――――――――――――――――――――――――――――――――――――――――――――
+
+`randizelda30@gmail.com · @randika234_ · EEPIS Surabaya`
 
 </div>
